@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AimWare.net
 // @namespace    aimware.net
-// @version      1.8.8
+// @version      2.4.0
 // @description  Aimware for krunker.io!
 // @author       Pypygay
 // @match        *://krunker.io/*
